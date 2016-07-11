@@ -21,4 +21,4 @@ functions and checking crossing symmetry in two-dimensional conformal field theo
 
 #### Getting results
 * __Liouville_demo.ipynb__: A demo notebook with a few quick computations, designed to be shown in seminars.
-* __Liouville_article__: A complete demo notebook for supporting the claims in the article. This includes generating the tables and figures. 
+* __Liouville_article.ipynb__: A complete demo notebook for supporting the claims in the article. This includes generating the tables and figures. 
