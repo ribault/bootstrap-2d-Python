@@ -20,5 +20,5 @@ functions and checking crossing symmetry in two-dimensional conformal field theo
 * __Data.ipynb__: Computing and displaying how correlation functions depend on various parameters. This includes comparing s- and t-channel computations in order to test crossing symmetry. The results can be saved as pickles. 
 
 #### Getting results
-* __Demo.ipynb__: A demo notebook with a few quick computations, designed to be shown in seminars.
+* __Liouville_demo.ipynb__: A demo notebook with a few quick computations, designed to be shown in seminars.
 * __Liouville_article__: A complete demo notebook for supporting the claims in the article. This includes generating the tables and figures. 
