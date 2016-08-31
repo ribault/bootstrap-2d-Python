@@ -19,6 +19,7 @@ functions and checking crossing symmetry in two-dimensional conformal field theo
 * __Correlators.ipynb__: Computing three- and four-point correlation functions in Liouville theory and related CFTs. This includes the necessary special functions.
 * __Data.ipynb__: Computing and displaying how correlation functions depend on various parameters. This includes comparing s- and t-channel computations in order to test crossing symmetry. The results can be saved as pickles. 
 * __Liouville_demo.ipynb__: A demo notebook with a few quick computations, designed to be shown in seminars.
+* __Liouville_demo_2.ipynb__: Another demo notebook.
 * __Liouville_article.ipynb__: A complete demo notebook for supporting the claims in the article. This includes generating the tables and figures. 
 
 #### Potts model and percolation
