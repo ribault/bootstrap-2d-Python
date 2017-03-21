@@ -11,7 +11,7 @@ functions and checking crossing symmetry in two-dimensional conformal field theo
 ## Structure
 
 #### Basic tools
-* __Aux.ipynb__: Auxiliary classes for complex integration, displaying tables, formal variables, and formal series.
+* __Auxiliary_classes.ipynb__: Auxiliary classes for complex integration, displaying tables, formal variables, and formal series.
 * __CFT.ipynb__: Basic objects of conformal field theory: central charge and conformal dimension. Kac tables.
 * __Blocks.ipynb__: Computing conformal blocks numerically or as formal series, using Zamolodchikov's recursion.
 
