@@ -7,6 +7,8 @@ This code was written by Sylvain Ribault and Raoul Santachiara in order to do th
 for the articles on "Liouville theory with a central charge less than one" and "A conformal bootstrap approach to critical percolation in two dimensions" (with Marco Picco). It can be used for computing correlation 
 functions and checking crossing symmetry in two-dimensional conformal field theories such as Liouville theory, (generalized) minimal models, and the Potts model.
 
+The code is originally written in Python 2. It should also work with Python 3.
+
 
 ## Structure
 
