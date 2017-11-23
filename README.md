@@ -8,6 +8,7 @@ This code was written for the articles
 * "A conformal bootstrap approach to critical percolation in two dimensions",
 * "Liouville field theory and log-correlated Random Energy Models",
 * "The analytic bootstrap equations of non-diagonal two-dimensional CFT". 
+
 It can be used for computing correlation functions and checking crossing symmetry in two-dimensional 
 conformal field theories such as Liouville theory, (generalized) minimal models, and the Potts model.
 
