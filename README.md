@@ -4,10 +4,10 @@ Numerically computing correlation functions in 2d CFT, using Jupyter Notebooks.
 ## Purpose
 
 This code was written for the articles 
-* "Liouville theory with a central charge less than one",
-* "A conformal bootstrap approach to critical percolation in two dimensions",
-* "Liouville field theory and log-correlated Random Energy Models",
-* "The analytic bootstrap equations of non-diagonal two-dimensional CFT". 
+* "Liouville theory with a central charge less than one", by S. Ribault and R. Santachiara,
+* "A conformal bootstrap approach to critical percolation in two dimensions", by M. Picco, S. Ribault and R. Santachiara,
+* "Liouville field theory and log-correlated Random Energy Models", by X. Cao, P. Le Doussal, A. Rosso and R. Santachiara,
+* "The analytic bootstrap equations of non-diagonal two-dimensional CFT", by S. Migliaccio and S. Ribault.
 
 It can be used for computing correlation functions and checking crossing symmetry in two-dimensional 
 conformal field theories such as Liouville theory, (generalized) minimal models, and the Potts model.
