@@ -9,8 +9,9 @@ while getopts "mch" opt; do
             ;;
         c )
             nbstripout *.ipynb
+            ;;
 
-        (h|\? )
+        h )
             echo "Usage: manage.sh [args]"
             echo "  -m    create .py files"
             echo "  -c    clean notebook outputs"
@@ -19,4 +20,8 @@ while getopts "mch" opt; do
 
     esac
 done
+
+if [ $OPTIND -eq 1 ]; then
+    bash $0 -h
+fi
 
