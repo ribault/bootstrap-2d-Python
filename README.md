@@ -14,6 +14,11 @@ conformal field theories such as Liouville theory, (generalized) minimal models,
 
 The code is originally written in Python 2. It should also work with Python 3.
 
+## Technical notes
+
+For 'Notebook1.ipynb' to be able to call 'Notebook2.ipynb', one should first generate the associated file 'Notebook2.py'. A script for generating such Python files can be called as 'bash manage.sh -m'. 
+
+Before committing changes, one should clear the notebooks' output and metadata. A script for doing that can be called as 'bash manage.py -c'. This script is based on the Python module 'nbstripout'.
 
 ## Notebooks
 
@@ -38,14 +43,4 @@ The code is originally written in Python 2. It should also work with Python 3.
 * __Non_Diagonal_Shifts.ipynb__: Computing four-point structure constants and correlation functions in non-diagonal CFTs.
 * __Non_Diagonal_article.ipynb__: Generating data for the article.
 
-
-## Usage
-
-
-In order to use the code one should generate the `.py` files associated to each module.
-The simplest  method is to run `bash manage.sh -m` to create all such files.
-These files are ignored byt `git` thanks to the `.gitignore` file.
-
-Before creating a commit with git one should ensure that the output (and metadata) of the files are cleaned.
-This can be achieved by running `bash manage.py -c`.
 
