@@ -1,5 +1,5 @@
 # bootstrap-2d-Python
-Numerically computing correlation functions in 2d CFT, using Jupyter Notebooks.
+Numerically computing correlation functions in 2d CFT with Python, using Jupyter Notebooks.
 
 ## Purpose
 
@@ -12,9 +12,11 @@ This code was written for the articles
 It can be used for computing correlation functions and checking crossing symmetry in two-dimensional
 conformal field theories such as Liouville theory, (generalized) minimal models, and the Potts model.
 
-The code is originally written in Python 2. It should also work with Python 3.
+The code is supposed to run on standard desktop computers, in order to quickly get relatively low precision results (5-15 significant digits). For higher precision computations of Virasoro conformal blocks, see this repository: https://github.com/chussong/virasoro
 
 ## Technical notes
+
+The code was originally written in Python 2, and also works with Python 3.
 
 For 'Notebook1.ipynb' to be able to call 'Notebook2.ipynb', one should first generate the associated file 'Notebook2.py'. A script for generating such Python files can be called as 'bash manage.sh -m'. 
 
