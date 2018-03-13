@@ -12,7 +12,7 @@ This code was written for the articles
 It can be used for computing correlation functions and checking crossing symmetry in two-dimensional
 conformal field theories such as Liouville theory, (generalized) minimal models, and the Potts model.
 
-The code is supposed to run on standard desktop computers, in order to quickly get relatively low precision results (5-15 significant digits). For higher precision computations of Virasoro conformal blocks, see this repository: https://github.com/chussong/virasoro
+The code is supposed to run on standard desktop or laptop computers, in order to quickly get relatively low precision results (5-15 significant digits). For higher precision computations of Virasoro conformal blocks, see this repository: https://github.com/chussong/virasoro
 
 ## Technical notes
 
