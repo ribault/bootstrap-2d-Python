@@ -20,7 +20,7 @@ The code was originally written in Python 2, and also works with Python 3.
 
 For 'Notebook1.ipynb' to be able to call 'Notebook2.ipynb', one should first generate the associated file 'Notebook2.py'. A script for generating such Python files can be called as 'bash manage.sh -m'. 
 
-Before committing changes, one should clear the notebooks' output and metadata. A script for doing that can be called as 'bash manage.py -c'. This script is based on the Python module 'nbstripout'.
+Before committing changes, one should clear the notebooks' output and metadata. A script for doing that can be called as 'bash manage.sh -c'. This script is based on the Python module 'nbstripout'.
 
 ## Notebooks
 
