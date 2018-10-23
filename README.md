@@ -18,7 +18,7 @@ Bibtex entry for release 1.1:
 @software{b2P,
   author = {{S. Ribault, R. Santachiara, S. Migliaccio, et al}},
   title = {bootstrap-2d-Python},
-  doi = {https://zenodo.org/badge/doi/10.5281/zenodo.1469339.svg},
+  doi = {https://zenodo.org/badge/doi/10.5281/zenodo.1469339.svg },
   version = {1.1},
   date = {2018},
 }
