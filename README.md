@@ -14,6 +14,8 @@ conformal field theories such as Liouville theory, (generalized) minimal models,
 
 The code is supposed to run on standard desktop or laptop computers, in order to quickly get relatively low precision results (5-15 significant digits). For higher precision computations of Virasoro conformal blocks, see this repository: https://github.com/chussong/virasoro
 
+For numerical tests of crossing symmetry, a code that partly evolved from this code can be found there: https://gitlab.com/s.g.ribault/Bootstrap_Virasoro
+
 Bibtex entry for release 1.1:
 @misc{b2P, author = {{S. Ribault, R. Santachiara, S. Migliaccio, et al}}, title = {bootstrap-2d-Python}, doi = {10.5281/zenodo.1469339}, url = { https://doi.org/10.5281/zenodo.1469339 }, version = {1.1}, year = {2018}, type = {code}, }
 
